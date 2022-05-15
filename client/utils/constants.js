@@ -1,0 +1,29 @@
+export const SUCCESS = "success";
+export const ERROR = "error";
+export const WARNING = "warning";
+export const INFO = "info";
+
+export const THEME_MODE = "themeMode";
+export const TOTAL_SALES = "TOTAL SALES";
+export const TOTAL_MERCHANTS = "TOTAL MERCHANTS";
+export const TOTAL_CUSTOMERS = "TOTAL CUSTOMERS";
+export const TOTAL_ORDERS = "TOTAL ORDERS";
+export const PRODUCTS_IN_STOCK = "PRODUCTS IN STOCK";
+export const TOTAL_PRODUCTS = "TOTAL PRODUCTS";
+export const WITHDRAWAL_REQUESTS = "WITHDRAWAL REQUESTS";
+export const PRODUCTS_CATEGORIES = "PRODUCTS CATEGORIES";
+export const TOTAL_MESSAGES = "TOTAL MESSAGES";
+export const UNREAD_MESSAGES = "UNREAD MESSAGES";
+export const LATEST_SALES = "Latest Sales";
+export const TOP_CATEGORIES_SALES = "Month Top 5 Categories";
+export const LATEST_PRODUCTS = "Latest Products";
+export const LATEST_ORDERS = "Latest Orders";
+export const LATEST_MERCHANTS = "Latest Merchants";
+export const LATEST_CUSTOMERS = "Latest Customers";
+export const TOP_RATED_MERCHANTS = "Top Rated Merchants";
+export const TOP_RATED_PRODUCTS = "Top Rated Products";
+
+export const VIEW_ALL = "View All";
+export const IMPORT = "Import";
+export const EXPORT = "Export";
+export const MERCHANT_TAB_VIEW = ["Merchants", "Withdrawals", "Categories"];
